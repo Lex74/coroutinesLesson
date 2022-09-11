@@ -1,3 +1,1306 @@
 {
-  "id": 4
+  "status": "ok",
+  "totalResults": 6722,
+  "articles": [
+  {
+    "source": {
+      "id": null,
+      "name": "Bleeding Cool News"
+    },
+    "author": "Jason Henderson",
+    "title": "House Of Darkness Makes Dracula's 3 Wives Scarier Than You Remember",
+    "description": "On this episode of Castle Talk, Jason chats with Neil LaBute, writer and director of House of Darkness, which releases in theaters on September 9, 2022, and on Demand and Digital on September 13, 2022. LaBute is the prolific director behind In the Company of …",
+    "url": "https://bleedingcool.com/movies/interview/house-of-darkness-makes-draculas-3-wives-scarier-than-you-remember/",
+    "urlToImage": "https://bleedingcool.com/wp-content/uploads/2022/09/house_of_darkness_joiner-1200x628.jpg",
+    "publishedAt": "2022-09-10T14:17:09Z",
+    "content": "On this episode of Castle Talk, Jason chats with Neil LaBute, writer and director of House of Darkness, which releases in theaters on September 9, 2022, and on Demand and Digital on September 13, 202… [+1959 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Seeking Alpha"
+    },
+    "author": "SA Stocks To Watch",
+    "title": "Stocks To Watch: Eyes On The Inflation Report, Starbucks Investor Day, And Detroit Auto Show",
+    "description": "Get ahead of the market by subscribing to Seeking Alpha's Stocks to Watch, a preview of key events scheduled for the coming week",
+    "url": "https://seekingalpha.com/article/4540177-stocks-to-watch-eyes-on-the-inflation-report-starbucks-investor-day-and-detroit-auto-show",
+    "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "publishedAt": "2022-09-10T13:53:34Z",
+    "content": "Get ahead of the market by subscribing to Seeking Alpha's Stocks to Watch, a preview of key events scheduled for the coming week. The newsletter keeps you informed of the biggest stories set to make … [+10034 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "steeltown",
+    "title": "Cheaper electric vehicles coming despite high battery costs",
+    "description": "The Chevrolet Equinox has a range-per-charge of 250 miles (400 kilometers) It will go on sale about this time next year at a price of around $30,000. It's the latest in a series of affordable... #hyundaikonaelectric #subarusolterra #lightningpickup #kia #thee…",
+    "url": "https://biztoc.com/p/dfbzsc4m?ref=rss",
+    "urlToImage": "https://cdn.biztoc.com/og/dfbzsc4m.jpg",
+    "publishedAt": "2022-09-10T13:09:01Z",
+    "content": "The Chevrolet Equinox has a range-per-charge of 250 miles (400 kilometers) It will go on sale about this time next year at a price of around $30,000. It's the latest in a series of affordable electri… [+1164 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo.com"
+    },
+    "author": "Kyle Barr",
+    "title": "A Short List of Texas' Wildest, Most Nonsensical Investigations and Laws Against Big Tech",
+    "description": "The Lone Star State is indeed going at it alone against big tech, or at least that’s how it seems by the piles of threadbare allegations, lawsuits, and investigations against the likes of Google, Facebook, and GoFundMe, just to name a few.Read more...",
+    "url": "https://gizmodo.com/texas-big-tech-google-meta-social-media-1848956901",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/5339704c6756a9e923b1c3007a141a41.jpg",
+    "publishedAt": "2022-09-10T13:00:00Z",
+    "content": "The Lone Star State is indeed going at it alone against big tech, or at least thats how it seems by the piles of threadbare allegations, lawsuits, and investigations against the likes of Google, Face… [+2725 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Autoblog"
+    },
+    "author": "chris teague",
+    "title": "Now is your chance to vote for future Tesla Supercharger locations",
+    "description": "Tesla seeks your suggestions new Supercharger locations: underserved areas, off-the-beaten-path locations, and long stretches without charging options.",
+    "url": "https://www.autoblog.com/2022/09/10/tesla-supercharger-locations-your-suggestions/",
+    "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/09/09100819/0x0-Supercharger_02.jpg",
+    "publishedAt": "2022-09-10T13:00:00Z",
+    "content": "Do you own a Tesla? Are you tired of fighting for a spot in line at your local Supercharger? Nows the time to let the automaker know how to make charging easier for you. Tesla Charging on Twitter thi… [+1700 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizchina.com"
+    },
+    "author": "Efe Udin",
+    "title": "Germany finds Tesla Autopilot function abnormal – orders the company to make changes",
+    "description": "Over the past six months, Germany’s road traffic safety regulator (KBA) has been investigating Tesla’s Autopilot function. After the investigation, the regulator found that the ...\nThe post Germany finds Tesla Autopilot function abnormal – orders the company …",
+    "url": "https://www.gizchina.com/2022/09/10/germany-finds-tesla-autopilot-function-abnormal-orders-the-company-to-make-changes/",
+    "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2022/08/Autopilot.jpg",
+    "publishedAt": "2022-09-10T12:24:11Z",
+    "content": "Over the past six months, Germanys road traffic safety regulator (KBA) has been investigating Tesla’s Autopilot function. After the investigation, the regulator found that the Autopilot function is “… [+1968 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizchina.com"
+    },
+    "author": "Efe Udin",
+    "title": "Elon Musk issues another notice to try to end the deal with Twitter",
+    "description": "According to court records, Elon Musk filed a revised countersuit against Twitter on Friday. This countersuit includes recent allegations by whistleblowers that the social media ...\nThe post Elon Musk issues another notice to try to end the deal with Twitter …",
+    "url": "https://www.gizchina.com/2022/09/10/elon-musk-issues-another-notice-to-try-to-end-the-deal-with-twitter/",
+    "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2022/07/1_5ra7TE5oPqAG4nnLsNspug-1200x675.png",
+    "publishedAt": "2022-09-10T12:11:39Z",
+    "content": "According to court records, Elon Musk filed a revised countersuit against Twitter on Friday. This countersuit includes recent allegations by whistleblowers that the social media platform has security… [+1726 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Motley Fool"
+    },
+    "author": "newsfeedback@fool.com (Anthony Di Pizio, Trevor Jennewine, and Jamie Louko)",
+    "title": "Cathie Wood Has 18% of Her Money in These 3 Growth Stocks",
+    "description": "During tricky market conditions, it can be helpful to follow professional investors who are focused on the long term.",
+    "url": "https://www.fool.com/investing/2022/09/10/cathie-wood-18-her-money-these-3-growth-stocks/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/699955/a-happy-family-sitting-on-the-couch-viewing-a-tablet-device.jpg",
+    "publishedAt": "2022-09-10T12:05:00Z",
+    "content": "Cathie Wood is the head of Ark Investment Management, a firm known for making big, long-term bets on some of the most innovative technology companies. It runs eight exchange-traded funds (ETFs) focus… [+7884 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Android Authority"
+    },
+    "author": "Dhruv Bhutani",
+    "title": "Master of Nothing: Carl Pei on the business of hype, and building an ecosystem",
+    "description": "Weeks after the launch of the Nothing Phone 1, we interview Carl Pei on the business of hype and launching a smartphone startup.",
+    "url": "https://www.androidauthority.com/carl-pei-nothing-phone-1-interview-3202840/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/07/Nothing-phone-white-in-hand-showing-back-e1657841684410.jpg",
+    "publishedAt": "2022-09-10T12:00:46Z",
+    "content": "Smartphones today are a firmly established commodity. Components are democratized, and so are consumer expectations of what makes a phone great at various price points. The best foldables and camera … [+13495 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ZDNet"
+    },
+    "author": "Matthew Miller",
+    "title": "The iQOO 9T is a killer phone that you probably can't buy",
+    "description": "Review: The iQOO 9T, recently released in India, is a great smartphone sporting high-end specifications at a reasonable price.",
+    "url": "https://www.zdnet.com/article/iqoo-9t-review/",
+    "urlToImage": "https://www.zdnet.com/a/img/resize/f8bacb772bb1d001e994b6eea7c24a76ea94eec4/2022/09/08/5ecc972e-f607-4600-8757-98992dfac084/iqoo-9t-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2022-09-10T12:00:06Z",
+    "content": "\",\"credits\":\"\",\"imageData\":{\"id\":\"393bc1f9-c8b4-447c-8a72-06dfc24d33bf\",\"filename\":\"ezgif-com-gif-maker.jpg\",\"path\":\"https://www.zdnet.com/a/img/2022/09/10/393bc1f9-c8b4-447c-8a72-06dfc24d33bf/ezgif-… [+90608 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Alex Knapp, Forbes Staff, \n Alex Knapp, Forbes Staff\n https://www.forbes.com/sites/alexknapp/",
+    "title": "GM’s Affordable Electric Car, Crypto’s Energy Impact And Rotary’s Battery Recycling",
+    "description": "This week’s Current Climate, which every Saturday brings you the latest news about the business of sustainability.",
+    "url": "https://www.forbes.com/sites/alanohnsman/2022/09/10/gms-affordable-electric-car-cryptos-energy-impact-and-rotarys-battery-recycling/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/631775ba97d5051185213eba/0x0.jpg?format=jpg&crop=960,540,x0,y97,safe&width=1200",
+    "publishedAt": "2022-09-10T12:00:00Z",
+    "content": "This weeks Current Climate, which every Saturday brings you the latest news about the business of sustainability. Sign up to get it in your inbox every week.\r\nLos Angeles Times via Getty Images\r\nEarl… [+5252 chars]"
+  },
+  {
+    "source": {
+      "id": "business-insider",
+      "name": "Business Insider"
+    },
+    "author": "gkay@insider.com (Grace Kay)",
+    "title": "Dogecoin creator says it 'annoyed' him when Elon Musk tried to send the cryptocurrency 'to the moon'",
+    "description": "\"He has a tendency to latch onto communities that he can then kind of absorb into his cult of personality,\" Jackson Palmer said.",
+    "url": "https://www.businessinsider.com/dogecoin-creator-annoyed-elon-musk-promoted-cryptocurrency-2022-9",
+    "urlToImage": "https://i.insider.com/631b58410a329a0011e3a646?width=1200&format=jpeg",
+    "publishedAt": "2022-09-10T11:30:00Z",
+    "content": "Dogecoin co-creator Jackson Palmer said it bothered him when Elon Musk and WallStreetBets' copycat Reddit group SatoshiBets attempted to send the meme currency \"to the moon\" last year.\r\nIn an intervi… [+3349 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gadgets360.com"
+    },
+    "author": null,
+    "title": "Elon Musk Reportedly Adds Whistleblower Payment as New Reason for Termination of $44 Billion Twitter Deal",
+    "description": "Elon Musk has reportedly sent a new termination letter to the social media company, adding the alleged payment made by Twitter to a whistleblower to the list of reasons for walking out of the deal. Musk reportedly accused the company of keeping him uninformed…",
+    "url": "https://gadgets360.com/social-networking/news/elon-musk-twitter-pieter-zatko-whistleblower-alleged-payment-deal-breaker-reason-report-3333050",
+    "urlToImage": "https://i.gadgets360cdn.com/large/elon_musk_twitter_reuters_1650914321120.jpg",
+    "publishedAt": "2022-09-10T11:00:24Z",
+    "content": "Elon Musk has found another reason to end his $44 billion (nearly Rs. 3,50,000 crore) takeover deal with Twitter. A latest report suggests that the billionaire sent a new termination letter to the so… [+1737 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Nakedcapitalism.com"
+    },
+    "author": "Yves Smith",
+    "title": "Links 9/10/2022",
+    "description": "Our tumultuos daily links: smart otters, Tarantula nebula, Navy v. UFO disclosure, KLG v. new Covid paper, India restricts rice exports, Queen's corgis? EU row over Russian price cap, Kharkov, Roomba worries, abortion, death of journalism? Buttcoin",
+    "url": "https://www.nakedcapitalism.com/2022/09/links-9-10-2022.html",
+    "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2022/09/00-guard-cat.jpg",
+    "publishedAt": "2022-09-10T10:58:28Z",
+    "content": "This is Naked Capitalism fundraising week. 632 donors have already invested in our efforts to combat corruption and predatory conduct, particularly in the financial realm. Please join us and particip… [+9374 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Detroit Free Press"
+    },
+    "author": "Benzinga",
+    "title": "Fed: Interest rates will climb 'until the job is done'",
+    "description": "The bond market is currently pricing in an 86% chance the Fed will issue its third consecutive 0.75% interest rate hike later this month.",
+    "url": "https://www.freep.com/story/money/business/michigan/2022/09/10/fed-interest-rates-will-climb-until-the-job-is-done/66856131007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pBmeajM646t5u9hmcbSDbw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/detroit-free-press/0b42b5ce17a040c1c7247ed26d126d6b",
+    "publishedAt": "2022-09-10T10:01:32Z",
+    "content": "The S&amp;P 500 broke a three-week losing streak this past week as the latest commentary from Federal Reserve Chair Jerome Powell suggests the Fed will continue to aggressively combat inflation.\r\nOn … [+2634 chars]"
+  },
+  {
+    "source": {
+      "id": "the-irish-times",
+      "name": "The Irish Times"
+    },
+    "author": "Jonathan Stempel, Tom Hals",
+    "title": "Musk says payment to whistleblower as another reason for terminating Twitter deal",
+    "description": "Lawyers say Twitter’s failure to seek consent before paying millions to whistleblower violates agreement",
+    "url": "https://www.irishtimes.com/business/2022/09/10/musk-says-payment-to-whistleblower-as-another-reason-for-terminating-twitter-deal/",
+    "urlToImage": "https://www.irishtimes.com/resizer/BLodW98xkYw1oqIu4AkoPJJ0tcM=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/VSBV53Y7RJGYKADQEXOBGTF4OE.jpg",
+    "publishedAt": "2022-09-10T10:00:28Z",
+    "content": "Elon Musk contended that Twitters decision to pay millions of dollars to a whistleblower it had fired gives the worlds richest person another justification for terminating his $44 billion (43.3 billi… [+1713 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Motley Fool"
+    },
+    "author": "newsfeedback@fool.com (Adria Cimino)",
+    "title": "Buying These Stock-Split Stocks Would be a Genius Move",
+    "description": "These players are market leaders -- and future prospects look bright.",
+    "url": "https://www.fool.com/investing/2022/09/10/buying-these-stock-split-stocks-is-genius-move/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/699909/gettyimages-1189135312.jpg",
+    "publishedAt": "2022-09-10T10:00:00Z",
+    "content": "A stock split in and of itself isn't a reason to buy or sell a stock. These maneuvers don't necessarily boost a company's valuation right away, either. Still, they do tend to draw attention from inve… [+4554 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "U.Today"
+    },
+    "author": "U.Today",
+    "title": "Elon Musk and DOGE Co-Founder Make Fun of Uniswap and CZ Scam Twitter Bots on Halloween",
+    "description": "Dogecoin co-creator was trolling crypto scam bots that impersonate CZ, when Elon Musk stepped in with his Halloween tweet",
+    "url": "https://u.today/elon-musk-and-doge-co-founder-make-fun-of-uniswap-and-cz-scam-twitter-bots-on-halloween",
+    "urlToImage": "https://u.today/sites/default/files/styles/twitter/public/2022-09/23421.jpg",
+    "publishedAt": "2022-09-10T09:58:00Z",
+    "content": "Disclaimer: The opinion expressed here is not investment advice it is provided for informational purposes only. It does not necessarily reflect the opinion of U.Today. Every investment and all tradin… [+1803 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Motley Fool"
+    },
+    "author": "newsfeedback@fool.com (Keith Speights)",
+    "title": "1 Stock-Split Stock Risk-Averse Investors Should Love (Hint: It's Not Amazon or Tesla)",
+    "description": "This stock isn't as well known as Amazon or Tesla, but it's a relatively low-risk pick.",
+    "url": "https://www.fool.com/investing/2022/09/10/stock-split-risk-averse-investors-not-amazon-tesla/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/699349/woman-in-it-data-center.jpg",
+    "publishedAt": "2022-09-10T09:57:00Z",
+    "content": "Investors haven't had much to get excited about this year. The major stock market indexes are all down. Rising interest rates have fueled worries about a potential recession.\r\nSome investors, though,… [+4207 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Luxurylaunches.com"
+    },
+    "author": "SCMP",
+    "title": "Among his nine kids, here is why Elon Musk shares a very special bond with son ‘X Æ A-12’ – A mini-me of the Tesla CEO the two-year-old loves rockets. Inspite of a very busy schedule the centibillionaire takes ‘X’ everywhere with him and even matches his hairstyle with the little one.",
+    "description": "Elon Musk is a keen advocate for higher child birth rates, once telling The New York Times that...\nThe post Among his nine kids, here is why Elon Musk shares a very special bond with son ‘X Æ A-12’ – A mini-me of the Tesla CEO the two-year-old loves rockets. …",
+    "url": "https://luxurylaunches.com/celebrities/elon-musk-special-bond-with-his-son-x.php",
+    "urlToImage": "https://luxurylaunches.com/wp-content/uploads/2022/09/elon-musk-and-x-ae-a-12-musk.jpg",
+    "publishedAt": "2022-09-10T09:45:22Z",
+    "content": "Elon Musk is a keen advocate for higher child birth rates, once telling The New York Times that babies are super cool and if people dont have enough babies, humanity will disappear.Now a father to ni… [+3703 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Designtaxi.com"
+    },
+    "author": "Nicole Rodrigues",
+    "title": "Elon Musk VS Twitter: ‘World War 3’ Concerns Add Fuel To Buyout Battle",
+    "description": "Image via Rafael Henrique | Dreamstime.com\n\n \nElon Musk made headlines when he first made a bid for Twitter for US$44 billion. He then made the news again as he tried to back out of the deal in July.\n \nSince then, he has tried just about everything to eject h…",
+    "url": "https://designtaxi.com/news/420319/Elon-Musk-VS-Twitter-World-War-3-Concerns-Add-Fuel-To-Buyout-Battle/",
+    "urlToImage": "https://editorial.designtaxi.com/images/elon-musk-twitter-245234014-1662796210.JPG",
+    "publishedAt": "2022-09-10T09:06:09Z",
+    "content": "Image via Rafael Henrique | Dreamstime.com\r\nElon Musk made headlines when he first made a bid for Twitter for US$44 billion. He then made the news again as he tried to back out of the deal in July.\r\n… [+2094 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Motley Fool"
+    },
+    "author": "newsfeedback@fool.com (Chris Neiger)",
+    "title": "Tesla Is Trying to Shave $5,000 Off Its Model Y Battery Costs",
+    "description": "The company continues to seek new ways to hold onto its lead in the electric vehicle space.",
+    "url": "https://www.fool.com/investing/2022/09/10/tesla-is-trying-to-shave-5000-off-its-model-y-batt/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/699736/model-y-front-34-blue.jpg",
+    "publishedAt": "2022-09-10T09:03:00Z",
+    "content": "Batteries are one of the most expensive components of electric vehicles (EVs). To bring the cost of EVs down, improving battery technology and reducing the expense of their manufacturing will be key.… [+3487 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "James Morris, Contributor, \n James Morris, Contributor\n https://www.forbes.com/sites/jamesmorris/",
+    "title": "BMW Plans EV Battery Dominance With New Gen6 Cylindrical Cell",
+    "description": "The BMW Gen6 battery system aims to make the company a leader in range, efficiency, and cost. If the company meets its goals, it could be a leading player in the drive towards electrification - and sustainability.",
+    "url": "https://www.forbes.com/sites/jamesmorris/2022/09/10/bmw-plans-ev-battery-dominance-with-new-gen6-cylindrical-cell/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/631b5ac060a2464bbdb586d4/0x0.jpg?format=jpg&width=1200",
+    "publishedAt": "2022-09-10T09:00:00Z",
+    "content": "Internal combustion cars are all about the engines, but for electric vehicles the batteries are the most significant component. BMW has clearly taken this to heart with its next generation battery pl… [+6070 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "gk",
+    "title": "Cheaper electric vehicles coming despite rising battery costs",
+    "description": "The Chevrolet Equinox small SUV has a starting price somewhere around $30,000. It has a range-per-charge of 250 miles (400 kilometers) You can get range of 300 miles (500 kilometers) if you pay... #niroev #kia #ioniq5 #chevroletequinox #f150 #lightningpickup …",
+    "url": "https://biztoc.com/p/shi63hgn?ref=rss",
+    "urlToImage": "https://cdn.biztoc.com/og/shi63hgn.jpg",
+    "publishedAt": "2022-09-10T08:59:03Z",
+    "content": "The Chevrolet Equinox small SUV has a starting price somewhere around $30,000. It has a range-per-charge of 250 miles (400 kilometers) You can get range of 300 miles (500 kilometers) if you pay more … [+1111 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Business Standard"
+    },
+    "author": "IANS",
+    "title": "India going ahead with Jai Jawan, Jai Kisan, Jai Vigyan, Jai Anusandhan: PM",
+    "description": "Prime Minister Modi made the observation while inaugurating 'Centre-State Science Conclave' in Ahmedabad via video-conferencing",
+    "url": "https://www.business-standard.com/article/current-affairs/new-india-is-surging-ahead-with-jai-jawan-jai-kisan-jai-vigyan-jai-anusandhan-pm-122091000450_1.html",
+    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-09/07/full/1662544489-9254.jpg",
+    "publishedAt": "2022-09-10T08:47:00Z",
+    "content": "Prime Minister on Saturday said that science is not only the basis of solutions, evolution and innovation, but also the inspiration with which today's new India is moving forward with Jai Jawan, Jai … [+2737 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "bizpoke",
+    "title": "Elon Musk in Texas: Neuralink files to build near Austin, Tesla eyes Gulf Coasrt lithium plant",
+    "description": "Austin-based Tesla is considering developing a first-of-its-kind lithium refining project. Tesla could eventually develop a roughly $365 million battery-grade lithium hydroxide refining facility... #nuecescounty #manufacturingsites #elonmusk #gulfcoasrt #neur…",
+    "url": "https://biztoc.com/p/kpp8b78w?ref=rss",
+    "urlToImage": "https://cdn.biztoc.com/og/kpp8b78w.jpg",
+    "publishedAt": "2022-09-10T08:08:50Z",
+    "content": "Austin-based Tesla is considering developing a first-of-its-kind lithium refining project. Tesla could eventually develop a roughly $365 million battery-grade lithium hydroxide refining facility near… [+1420 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Business Standard"
+    },
+    "author": "ANI",
+    "title": "India's innovation index rank rose to 46 due to Centre's efforts: PM Modi",
+    "description": "The Prime Minister on Saturday inaugurated the Centre-State Science Conclave via video conferencing",
+    "url": "https://www.business-standard.com/article/current-affairs/india-s-innovation-index-rank-rose-to-46-due-to-centre-s-efforts-pm-modi-122091000356_1.html",
+    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-09/07/full/1662544489-9254.jpg",
+    "publishedAt": "2022-09-10T07:46:00Z",
+    "content": "Highlighting the Centre's science and technology-based development model, Prime Minister Narendra Modi on Saturday said that India's Global Innovation Index ranking improved from 81 in 2015 to 46 at … [+4224 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Slashdot.org"
+    },
+    "author": "feedfeeder",
+    "title": "Dow Jones Jumps As Losing Streak Ends; Tesla Surges As Elon Musk Eyes This Move; Warren Buffett Stock Pops - Investor's Business Daily",
+    "description": "Dow Jones Jumps As Losing Streak Ends; Tesla Surges As Elon Musk Eyes This Move; Warren Buffett Stock PopsInvestor's Business Daily Stryker Corp. stock rises Friday, outperforms marketMarketWatch Stocks Climb as a Fall in Inflation Expectations Boosts Market …",
+    "url": "https://slashdot.org/firehose.pl?op=view&amp;id=165990167",
+    "urlToImage": null,
+    "publishedAt": "2022-09-10T07:32:44Z",
+    "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Seeking Alpha"
+    },
+    "author": "Brick By Brick Capital",
+    "title": "CECO Environmental: Impressive Turnaround That Will Still Flourish Even In A Recession",
+    "description": "CECO Environmental supplies solutions to industrial Air/Water/Energy sectors. Read more to see CECE's growth potential and our PT for the stock.",
+    "url": "https://seekingalpha.com/article/4540144-ceco-environmental-impressive-turnaround-flourish-even-in-recession",
+    "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/505176828/image_505176828.jpg?io=getty-c-w750",
+    "publishedAt": "2022-09-10T05:17:46Z",
+    "content": "tuachanwatthana/iStock via Getty Images\r\nThesis\r\n Overview\r\n We believe CECO Environmental (NASDAQ:CECE) is one of the most compelling turnaround stories in the small-cap universe. It is led by an ex… [+20580 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "TweakTown"
+    },
+    "author": "Jak Connor",
+    "title": "Elon Musk confirms talks with Apple about enabling Starlink for iPhone",
+    "description": "SpaceX and Tesla CEO Elon Musk has confirmed he's had conversations with Apple about bringing SpaceX's Starlink internet service to iPhone users. Continue reading at TweakTown >",
+    "url": "https://www.tweaktown.com/news/88380/elon-musk-confirms-talks-with-apple-about-enabling-starlink-for-iphone/index.html",
+    "urlToImage": "https://static.tweaktown.com/news/8/8/88380_01_one-of-coinbases-first-investors-says-crypto-is-worthless_full.jpg",
+    "publishedAt": "2022-09-10T05:06:02Z",
+    "content": "Apple has recently revealed the new iPhone 14, and according to Apple's \"Far Out\" event presentation, the new device supports satellite connectivity for the first time.\r\nThe iPhone 14 is the very fir… [+2401 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "bruces",
+    "title": "Former Tesla CFO joins drone delivery startup Zipline",
+    "description": "Zipline is a Silicon Valley-based robotics company that delivers supplies to hard-to-reach areas using drones. Former Tesla CFO Deepak Ahuja will join Zipline's leadership team as the company's... #dronedeliverystartup #roboticscompany #deepakahuja #leadershi…",
+    "url": "https://biztoc.com/p/thybcnhb?ref=rss",
+    "urlToImage": "https://cdn.biztoc.com/og/thybcnhb.jpg",
+    "publishedAt": "2022-09-10T04:14:53Z",
+    "content": "Zipline is a Silicon Valley-based robotics company that delivers supplies to hard-to-reach areas using drones. Former Tesla CFO Deepak Ahuja will join Zipline's leadership team as the company's chief… [+351 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Tech Times"
+    },
+    "author": "Teejay Boris",
+    "title": "Ford's EV Prices Are Set to Get Cheaper to Better Compete with Tesla",
+    "description": "Is it a way to better compete with Elon Musk's Tesla?",
+    "url": "https://www.techtimes.com/articles/280344/20220910/ford-ev-price-lower-ford-tesla-ev.htm",
+    "urlToImage": "https://1734811051.rsc.cdn77.org/data/images/full/411250/ford-s-ev-prices-are-set-to-get-cheaper-to-better-compete-with-tesla.jpg",
+    "publishedAt": "2022-09-10T04:00:00Z",
+    "content": "Ford seeks its electric vehicle (EV) price to be cheaper as the renowned car maker attempts to better compete with Tesla, the EV leader owned by Elon Musk.\r\nThe giant automaker is looking to meet up … [+2755 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Freerepublic.com"
+    },
+    "author": "The Epoch Times",
+    "title": "Millions Of Electric Car Batteries Retiring By 2030, Are We Ready To Deal With What Could Be Ticking Time Bombs?",
+    "description": "The evolving landscape of lithium batteries is creating both contradictions and infrastructure hurdles that, according to some, need to be addressed sooner rather than later. A critical component of this is waste management. More than 6 million electric vehic…",
+    "url": "https://freerepublic.com/focus/f-chat/4092249/posts",
+    "urlToImage": null,
+    "publishedAt": "2022-09-10T03:50:40Z",
+    "content": "Skip to comments.\r\nMillions Of Electric Car Batteries Retiring By 2030, Are We Ready To Deal With What Could Be Ticking Time Bombs?The Epoch Times ^\r\n | 09/09/2022\r\n | Autumn Spreadmann\r\nPosted on 09… [+6774 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Erickimphotography.com"
+    },
+    "author": "ERIC KIM",
+    "title": "Keep the branding simple.",
+    "description": "Don’t make it complicated. Make it simple and easy to remember. Think Apple, Amazon, Tesla, etc.",
+    "url": "https://erickimphotography.com/blog/2022/09/09/keep-the-branding-simple/",
+    "urlToImage": "https://i0.wp.com/erickimphotography.com/blog/wp-content/uploads/2021/11/cropped-selfie-ERIC-KIM-crimson-red-glitch.jpg?fit=512%2C512&ssl=1",
+    "publishedAt": "2022-09-10T03:08:31Z",
+    "content": "Dont make it complicated. Make it simple and easy to remember. Think Apple, Amazon, Tesla, etc."
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Daily Beast"
+    },
+    "author": "Ayonga Hereid, The Conversation",
+    "title": "Why Don’t We Have Robot Maids Yet?",
+    "description": "STR/AFP via Getty I\r\nWith recent advances in artificial intelligence and robotics technology, there is growing interest in developing and marketing household robots capable of handling a variety of domestic chores.Tesla is building a humanoid robot, which, ac…",
+    "url": "https://www.thedailybeast.com/robot-maids-like-the-jetsons-rosey-are-more-difficult-to-build",
+    "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1533,w_2726,x_0,y_156/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1662778099/GettyImages-127243352_lbfvwc",
+    "publishedAt": "2022-09-10T02:59:44Z",
+    "content": "With recent advances in artificial intelligence and robotics technology, there is growing interest in developing and marketing household robots capable of handling a variety of domestic chores.\r\nTesl… [+5892 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Reno Gazette Journal"
+    },
+    "author": "Michael Bustamante, Reno Gazette Journal",
+    "title": "Congress' anti-tech legislation aims to stifle Nevada's innovation economy - Reno Gazette Journal",
+    "description": "The last thing Nevadans need right now is for Congress to put up another economic roadblock in our path to prosperity.",
+    "url": "https://www.rgj.com/story/opinion/voices/2022/09/10/congress-anti-tech-legislation-aims-stifle-nevadas-innovation-economy/8027040001/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/08/PREN/ea72b72f-c409-4d3a-82f2-8066b0ee0670-GettyImages-620006352.jpg?auto=webp&crop=2301,1295,x0,y0&format=pjpg&width=1200",
+    "publishedAt": "2022-09-10T02:09:15Z",
+    "content": "This opinion column was submitted by Michael Bustamante, president and founder of the Latino Consumer Federation\r\nWhen people think about Nevada and our economy, they immediately turn to gaming and t… [+4299 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CleanTechnica"
+    },
+    "author": "Guest Contributor",
+    "title": "8300-Mile EV Road Trip: Washington to Canadian Maritimes",
+    "description": "By David Morgan, Plug-In NCW Newsletter We just completed a 5-week, 8,300-mile family road trip to the Canadian Maritimes and back again. Although we’ve been driving electric cars since 2014 and have logged almost 200,000 EV miles, including several multi-day…",
+    "url": "https://cleantechnica.com/2022/09/09/8300-mile-ev-road-trip-washington-to-canadian-maritimes/",
+    "urlToImage": "https://cleantechnica.com/files/2022/09/North_Cascades_Scenic_Highway_Mt_Baker_Snoqualmie_National_Forest_36357530914-1.jpg",
+    "publishedAt": "2022-09-10T01:44:56Z",
+    "content": "By David Morgan, Plug-In NCW Newsletter\r\nWe just completed a 5-week, 8,300-mile family road trip to the Canadian Maritimes and back again. Although weve been driving electric cars since 2014 and have… [+7743 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "Cal Thomas",
+    "title": "California’s electricity woes offer a taste of a possible future green-energy nightmare",
+    "description": "California has become an example of what a state looks like when it is controlled by a single party — in this case, Democrats, who are trying to impose a green-energy secular religion on their people.",
+    "url": "https://nypost.com/2022/09/09/californias-electricity-woes-offer-insight-to-green-energy-nightmare/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/california-ev-energy-comp.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2022-09-10T01:20:34Z",
+    "content": "“Well, they’re out there a-having fun / In that warm California sun” (1964 song by The Rivieras).\r\nCalifornia has become an example of what a state looks like when it is controlled by a single party … [+3367 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "HT News Desk",
+    "title": "Twitter to pay $7 million to whistleblower, Elon Musk replies: ‘Another reason…’ - Hindustan Times",
+    "description": "<ol><li>Twitter to pay $7 million to whistleblower, Elon Musk replies: ‘Another reason…’  Hindustan Times\r\n</li><li>Elon Musk Files Amended Counterclaims In Legal Battle Against Twitter  NDTV\r\n</li><li>Elon Musk got told off by the judge in his Twitter case f…",
+    "url": "https://www.hindustantimes.com/business/elon-musk-responds-as-twitter-to-pay-7-million-dollars-to-whistleblower-101662772206218.html",
+    "urlToImage": "https://images.hindustantimes.com/img/2022/09/10/1600x900/twitter_to_hold_vote_over_musk_buyout_bid_1658895639447_1662772486504_1662772486504.JPG",
+    "publishedAt": "2022-09-10T01:15:07Z",
+    "content": "Amid the ongoing legal battle over the $44 million deal, billionaire Elon Musk told Twitter on Friday that its decision to pay millions of dollars to a whistleblower it had fired gives him another ju… [+1496 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GeekWire"
+    },
+    "author": "Alan Boyle",
+    "title": "‘It’s not science fiction’: Zeva is taking its flying saucer concept to the next level",
+    "description": "Eight months ago, Zeva Aero conducted a milestone flight test for an electric-powered flying saucer that would warm the heart of any sci-fi fan. Now the Tacoma, Wash.-based startup has changed the design ⁠— and although Zeva’s Z2 will look less like a UFO, it…",
+    "url": "https://www.geekwire.com/2022/zeva-flying-saucer-concept-next-level/",
+    "urlToImage": "https://cdn.geekwire.com/wp-content/uploads/2022/09/rendered_Z2_blue_sky-1.png",
+    "publishedAt": "2022-09-10T01:03:56Z",
+    "content": "An artists conception shows Zevas Z2 electric air vehicle in horizontal flight. (Zeva Illustration)\r\nEight months ago, Zeva Aero conducted a milestone flight test for an electric-powered flying sauce… [+6095 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Motley Fool Australia"
+    },
+    "author": "James Mickleboro",
+    "title": "3 excellent ETFs for beginner investors to buy",
+    "description": "These ETFs could be great options for beginners...\nThe post 3 excellent ETFs for beginner investors to buy appeared first on The Motley Fool Australia.",
+    "url": "https://www.fool.com.au/2022/09/10/3-excellent-etfs-for-beginner-investors-to-buy/",
+    "urlToImage": "https://www.fool.com.au/wp-content/uploads/2022/02/etf-18-16.9.jpg",
+    "publishedAt": "2022-09-10T01:01:12Z",
+    "content": "If youre just starting out with investing and arent sure which shares to buy, then you could consider exchange traded funds (ETFs).\r\nETFs are an easy way to invest because they allow you to buy large… [+2029 chars]"
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Kirsten Korosec",
+    "title": "Alphabet’s Verily raises $1 billion as tech giants enter red hot healthcare sector - TechCrunch",
+    "description": "Verily, the life sciences business under Alphabet, said Friday that it has raised $1 billion, capital that will be used to expand its data-driven healthcare products tailored to individuals. The round was led by Alphabet, the company said in its announcement.…",
+    "url": "https://techcrunch.com/2022/09/09/alphabets-verily-raises-1-billion-as-tech-giants-enter-red-hot-healthcare-sector/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1331215115.jpg?w=1200",
+    "publishedAt": "2022-09-10T00:51:09Z",
+    "content": "Verily, the life sciences business under Alphabet, said Friday that it has raised $1 billion, capital that will be used to expand its data-driven healthcare products tailored to individuals.\r\nThe rou… [+2009 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CryptoGlobe"
+    },
+    "author": "Francisco Memoria",
+    "title": "How Long Does It Take to Mine 1 Dogecoin?",
+    "description": "Although Dogecoin is often referred to as a “joke” cryptocurrency, having no real purpose other than being funny or a meme token, it is nevertheless one of the most popular cryptocurrencies, with a market cap that places it frequently within the top 10. As su…",
+    "url": "https://www.cryptoglobe.com/latest/2022/09/how-long-does-it-take-to-mine-1-dogecoin/",
+    "urlToImage": "https://cryptoglobe.s3.eu-west-2.amazonaws.com/2021/06/executium-E6GkoIzkmnc-unsplash-768x511.jpg",
+    "publishedAt": "2022-09-10T00:36:00Z",
+    "content": "Although Dogecoin is often referred to as a joke cryptocurrency, having no real purpose other than being funny or a meme token, it is nevertheless one of the most popular cryptocurrencies, with a mar… [+9533 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gizmodo Australia"
+    },
+    "author": "Steve DaSilva",
+    "title": "Rivian and Mercedes Are Teaming Up On Electric Vans",
+    "description": "Rivian makes some fantastic cars, but it also makes a line of vans for Amazon. The company has said it...\nThe post Rivian and Mercedes Are Teaming Up On Electric Vans appeared first on Gizmodo Australia.\n  Related Stories\r\n<ul><li>Rivian and Mercedes Are Team…",
+    "url": "https://www.gizmodo.com.au/2022/09/rivian-and-mercedes-are-teaming-up-on-electric-vans/",
+    "urlToImage": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/09/09/af11268447ba8b8ca3ec3cd8043c3b13.jpg?quality=80&resize=1280,720",
+    "publishedAt": "2022-09-10T00:30:15Z",
+    "content": "Rivian makes some fantastic cars, but it also makes a line of vans for Amazon. The company has said it plans to expand those sales beyond the 2022 World Union Busting Champion, but its been light on … [+1802 chars]"
+  },
+  {
+    "source": {
+      "id": "bloomberg",
+      "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "Tesla's China Battery Supplier Operating Under Covid Restrictions",
+    "description": "The world’s biggest maker of batteries for electric cars said its largest plant in China is operating a factory bubble to comply with the country’s zero-tolerance pandemic curbs.",
+    "url": "https://www.bloomberg.com/news/articles/2022-09-10/tesla-s-tsla-china-battery-supplier-operating-under-covid-restrictions",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ido385_eq2pg/v0/1200x800.jpg",
+    "publishedAt": "2022-09-10T00:17:29Z",
+    "content": "The worlds biggest maker of batteries for \r\nelectric cars said its largest plant in China is operating a factory bubble to comply with the countrys zero-tolerance pandemic curbs. \r\nContemporary Amper… [+2614 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Daily News"
+    },
+    "author": "Molly Crane-Newman",
+    "title": "Hollywood executive who bought himself a mansion with stolen investments sentenced to 6 years in federal prison",
+    "description": "William Sadleir, 68, pleaded guilty in January to two counts of wire fraud for separate schemes.",
+    "url": "https://www.nydailynews.com/new-york/manhattan/ny-hollywood-executive-stolen-money-federal-prison-20220910-hfgopjbfwrebpgo3w7ywddaeay-story.html",
+    "urlToImage": "https://www.nydailynews.com/resizer/NgfYOcjdVt41UoA7yLz1P991bfg=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/6W4Z35W3KFB3LO4V4C2AUNFTD4.jpg",
+    "publishedAt": "2022-09-10T00:11:01Z",
+    "content": "A Hollywood executive who spent millions in stolen investments on a seven-room mansion in Beverly Hills and a new Tesla was sentenced to six years in prison on Friday for defrauding a New York invest… [+2426 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CarScoops"
+    },
+    "author": "Chris Chilton",
+    "title": "BMW’s Round Battery Cells For 2025 Will Boost Range And Charging Speeds By 30%",
+    "description": "New batteries will also cost half as much as current units, potentially making EVs more affordable.",
+    "url": "https://www.carscoops.com/2022/09/bmws-round-battery-cells-for-2025-will-boost-range-and-charging-speeds-by-30/",
+    "urlToImage": "https://www.carscoops.com/wp-content/uploads/2022/09/BMW-round-battery-cells-00002-copy.jpg",
+    "publishedAt": "2022-09-10T00:07:27Z",
+    "content": "BMWs next-generation battery technology will help its 2025 EVs travel up to 30 percent further and charge 30 percent faster than todays cars, the company has revealed.\r\nBMW will roll out the technolo… [+2269 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "9to5Mac"
+    },
+    "author": "Seth Kurkowski",
+    "title": "9to5Mac Happy Hour 398: iPhone 14, Apple Watch Series 8, Apple Watch Ultra and new AirPods Pro event",
+    "description": "It’s that time again, for the analysis of the big event of the year. Benjamin and Zac talk about everything announced at the Apple September 2022 event, including iPhone 14, iPhone 14 Pro, Apple Watch Series 8, Apple Watch Ultra, and the new AirPods Pro. Far …",
+    "url": "https://9to5mac.com/2022/09/09/9to5mac-happy-hour-398/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-09-10T00:02:37Z",
+    "content": "Its that time again, for the analysis of the big event of the year. Benjamin and Zac talk about everything announced at the Apple September 2022 event, including iPhone 14, iPhone 14 Pro, Apple Watch… [+2104 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Tech Times"
+    },
+    "author": "Isaiah Richard",
+    "title": "Tesla Same Hour Service: Elon Musk says More then 50% Coming for North American Repair Centers",
+    "description": "A faster service is coming for Tesla North America repair centers, with quality and speed in mind.",
+    "url": "https://www.techtimes.com/articles/280337/20220909/tesla-same-hour-service-elon-musk-more-50-coming-north.htm",
+    "urlToImage": "https://1734811051.rsc.cdn77.org/data/images/full/409307/tesla.jpg",
+    "publishedAt": "2022-09-10T00:00:00Z",
+    "content": "Tesla is aiming to deliver a significant boost on its repairs for the electric vehicles and other products of the company, expanding to more than 50 percent operations for its \"same hour\" service in … [+2991 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Debian.org"
+    },
+    "author": "",
+    "title": "Updated Debian 11: 11.5 released",
+    "description": "The Debian project is pleased to announce the fifth update of its\nstable distribution Debian 11 (codename bullseye).\nThis point release mainly adds corrections for security issues,\nalong with a few adjustments for serious problems. Security advisories\nhave al…",
+    "url": "https://www.debian.org/News/2022/2022091002.en.html",
+    "urlToImage": null,
+    "publishedAt": "2022-09-10T00:00:00Z",
+    "content": "September 10th, 2022\r\nThe Debian project is pleased to announce the fifth update of its\r\nstable distribution Debian 11 (codename bullseye).\r\nThis point release mainly adds corrections for security is… [+8675 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "New York Post"
+    },
+    "author": "SWNS",
+    "title": "The most influential entrepreneurs today, according to Americans: poll",
+    "description": "The survey looked at 40 entrepreneurs from the last 50 years, asking respondents to select the ones they believe has had the biggest positive impact on society.",
+    "url": "https://nypost.com/2022/09/09/the-most-influential-entrepreneurs-today-according-to-americans-poll/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/entrepreneur-poll-02-1.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2022-09-09T23:55:37Z",
+    "content": "Bill Gates, Jeff Bezos and Steve Jobs are considered the top three most influential modern entrepreneurs, according to new research.\r\nThe survey of 2,000 Americans gave respondents a list of over 40 … [+5193 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CleanTechnica"
+    },
+    "author": "Zachary Shahan",
+    "title": "BYD’s Order Backlog: ~700,000 Vehicles",
+    "description": "I recently wrote about Tesla’s rather enormous order backlog — estimated to be ~457,000 vehicles. Since then, I’ve seen coverage of BYD’s estimated order backlog, and it’s even bigger. According to CnEVPost, BYD’s order backlog has reached around 700,000 vehi…",
+    "url": "https://cleantechnica.com/2022/09/09/byds-order-backlog-700000-vehicles/",
+    "urlToImage": "https://cleantechnica.com/files/2022/04/byd-han-ev-2022-01-min.png",
+    "publishedAt": "2022-09-09T23:47:50Z",
+    "content": "I recently wrote about Tesla’s rather enormous order backlog  estimated to be ~457,000 vehicles. Since then, I’ve seen coverage of BYD’s estimated order backlog, and it’s even bigger. According to Cn… [+1811 chars]"
+  },
+  {
+    "source": {
+      "id": "techcrunch",
+      "name": "TechCrunch"
+    },
+    "author": "Kirsten Korosec",
+    "title": "Zipline lands departing Verily CFO, Tesla veteran Deepak Ahuja",
+    "description": "Zipline has hired departing Verily CFO and Tesla veteran Deepak Ahuja as its first chief business and financial officer, an appointment that comes as the drone delivery and logistics startup accelerates its global expansion in Africa, the United States an",
+    "url": "https://techcrunch.com/2022/09/09/zipline-lands-departing-verily-cfo-tesla-veteran-deepak-ahuja/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?w=1200",
+    "publishedAt": "2022-09-09T23:32:43Z",
+    "content": "Zipline has hired departing Verily CFO and Tesla veteran Deepak Ahuja as its first chief business and financial officer, an appointment that comes as the drone delivery and logistics startup accelera… [+3231 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "earthy",
+    "title": "Here's why Tesla is considering refining its own lithium",
+    "description": "The facility would be the first of its kind in North America, Tesla says. Construction could begin later this year and reach \"commercial operations\" by 2024. Australia, Chile and China are the top... #musk #lithiumproducers #tesla",
+    "url": "https://biztoc.com/p/cc27pjwa?ref=rss",
+    "urlToImage": "https://cdn.biztoc.com/og/cc27pjwa.jpg",
+    "publishedAt": "2022-09-09T23:30:06Z",
+    "content": "The facility would be the first of its kind in North America, Tesla says. Construction could begin later this year and reach \"commercial operations\" by 2024. Australia, Chile and China are the top th… [+649 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Barron's"
+    },
+    "author": "Al Root",
+    "title": "2023 Is a Big Union Contract Year. With Inflation Hot, Expect Labor Unrest.",
+    "description": "UPS and big auto makers all have major contracts to negotiate with the unions. After pandemic and rising prices, larger wage increases will be on the table.",
+    "url": "https://www.barrons.com/articles/with-inflation-hot-2023-looks-like-a-prime-year-for-labor-unrest-51662765273",
+    "urlToImage": "https://images.barrons.com/im-619407/social",
+    "publishedAt": "2022-09-09T23:25:28Z",
+    "content": "Investors have dealt with a lot of risks over the past few yearsa pandemic, a war, and rising inflation. Next year will almost certainly bring a new one: labor unrest.U.S. consumer price inflation ha… [+4077 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Nicholas Reimann, Forbes Staff, \n Nicholas Reimann, Forbes Staff\n https://www.forbes.com/sites/nicholasreimann/",
+    "title": "Musk Tries To Cancel Twitter Deal (Again), Citing Whistleblower (Again)",
+    "description": "This is the third termination notice sent by Elon Musk, who has been trying to end his $44 billion deal over purported concerns about the number of bots on the platform, but his legal team's attention has shifted to a whistleblower who claims Twitter's leader…",
+    "url": "https://www.forbes.com/sites/nicholasreimann/2022/09/09/musk-tries-to-cancel-twitter-deal-again-citing-whistleblower-again/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/631bc84102d3768d27d70394/0x0.jpg?format=jpg&crop=3483,1960,x0,y175,safe&width=1200",
+    "publishedAt": "2022-09-09T23:14:36Z",
+    "content": "Lawyers for Elon Musk sent another letter to Twitter on Friday in their latest attempt to call off the $44 billion deal for the world's richest man to buy the social media platform, claiming a severa… [+2623 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Barron's"
+    },
+    "author": "Alex Eule",
+    "title": "Elon Musk Gives a New Reason to Cancel Twitter Deal",
+    "description": "Lawyers for Musk said on Friday that Twitter's severance payments to a former employee violate the merger agreement. They say it's a “separate and distinct” reason to terminate the deal.",
+    "url": "https://www.barrons.com/articles/elon-musk-twitter-deal-lawsuit-whistleblower-51662764268",
+    "urlToImage": "https://images.barrons.com/im-600983/social",
+    "publishedAt": "2022-09-09T23:08:23Z",
+    "content": "Lawyers for \r\n Tesla\r\n CEO Elon Musk said late Friday that Musk has new reason to cancel his merger agreement with \r\n Twitter.\r\n  In a letter to Twitter (ticker: TWTR), the lawyers wrote that the soc… [+1701 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Jalopnik"
+    },
+    "author": "José Rodríguez Jr.",
+    "title": "Ford Wants to Cut Costs by Telling Dealers to Make Less on EV Sales, And Spend More on EV Infrastructure",
+    "description": "Ford CEO Jim Farley is meeting with dealers next week to talk about their role in the company as the U.S. automaker transitions to EVs. Farley is going to try to get dealers to simultaneously cut up to $2,000 from the cost of every single EV delivery, while a…",
+    "url": "https://jalopnik.com/ford-wants-to-cut-costs-by-telling-dealers-to-make-less-1849518679",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4d6872dfe3a0b7f2ed4b5a633026d14c.jpg",
+    "publishedAt": "2022-09-09T23:00:00Z",
+    "content": "Ford CEO Jim Farley is meeting with dealers next week to talk about their role in the company as the U.S. automaker transitions to EVs. Farley is going to try to get dealers to simultaneously cut up … [+2232 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Chris Dolmetsch",
+    "title": "Movie Producer Gets 6 Years for Scamming BlackRock Trust",
+    "description": "(Bloomberg) -- A Hollywood producer will spend six years in federal prison for scamming a BlackRock Inc. trust out of more than $30 million it invested in...",
+    "url": "https://finance.yahoo.com/news/movie-producer-gets-6-years-225258435.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/veOMmaXESKxPkg1BirQYfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04ODY-/https://media.zenfs.com/en/bloomberg_markets_842/c724ac53d3a1b65777aef5da5caff926",
+    "publishedAt": "2022-09-09T22:52:58Z",
+    "content": "(Bloomberg) -- A Hollywood producer will spend six years in federal prison for scamming a BlackRock Inc. trust out of more than $30 million it invested in his company.\r\nWilliam Sadleir, 68, was sente… [+1984 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Houston Chronicle"
+    },
+    "author": "Sean O’kane And Shelly Hagan",
+    "title": "Tesla seeks tax breaks for lithium refinery on Gulf Coast",
+    "description": "If built, Tesla told the state that the facility would process the raw ore material into...",
+    "url": "https://www.houstonchronicle.com/business/article/Tesla-Seeks-Tax-Breaks-17431288.php",
+    "urlToImage": "https://s.hdnux.com/photos/01/27/31/14/22909697/3/rawImage.jpg",
+    "publishedAt": "2022-09-09T22:22:17Z",
+    "content": "Tesla Inc. is plotting a potential lithium refinery on the gulf coast of Texas, a move that would bolster the companys battery-production efforts and further expand its footprint in the state.The ele… [+3140 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CleanTechnica"
+    },
+    "author": "Jo Borrás",
+    "title": "Majority of Tesla Owners Would Consider an Apple Car",
+    "description": "Apple cars are proving popular with new Tesla owners even before they hit the road, a new survey recently found.",
+    "url": "https://cleantechnica.com/2022/09/09/majority-of-tesla-owners-would-consider-an-apple-car/",
+    "urlToImage": "https://cleantechnica.com/files/2022/03/apple_PORSCHE.jpg",
+    "publishedAt": "2022-09-09T21:55:21Z",
+    "content": "You might think that “love” is a hard thing to quantify, but a Strategic Vision survey of over 200,000 new-vehicle owners (via Business Insider) found that Cupertino, California-based tech brand Appl… [+3200 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Newser"
+    },
+    "author": "Bob Cronin",
+    "title": "Tesla Considers Refining Lithium",
+    "description": "Supply chain realities involving batteries have driven Tesla to consider building its own lithium hydroxide refining plant. The maker of electric vehicles has filed a notice with Texas saying that it's considering locations in Texas and Louisiana that have ac…",
+    "url": "https://www.newser.com/story/325279/tesla-considers-lithium-refinery-on-gulf-coast.html",
+    "urlToImage": "https://img2-azrcdn.newser.com/image/1432637-12-20220909171515.jpeg",
+    "publishedAt": "2022-09-09T21:50:00Z",
+    "content": "(Newser)\r\nSupply chain realities involving batteries have driven Tesla to consider building its own lithium hydroxide refining plant. The maker of electric vehicles has filed a notice with Texas sayi… [+1086 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Barron's"
+    },
+    "author": "Andrew Bary",
+    "title": "Volkswagen Is One of the Cheapest Stocks. A Porsche IPO Could Change That.",
+    "description": "A Porsche public offering could value the company at almost the entire market cap of VW. And that’s just one of VW’s attractions.",
+    "url": "https://www.barrons.com/articles/porsche-ipo-could-unlock-value-at-volkswagen-a-tesla-challenger-51662758336",
+    "urlToImage": "https://images.barrons.com/im-618483/social",
+    "publishedAt": "2022-09-09T21:21:00Z",
+    "content": "With the exception of \r\nTesla\r\n ,\r\n auto makers are out of favor with investors. Their shares carry some of the stock markets lowest price/earnings multiples. Concerns include an expensive transition… [+5428 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Tech Times"
+    },
+    "author": "John Lopez",
+    "title": "German Transport Authority Orders Tesla to Modify Autopilot Features After Pointing Out Irregularities",
+    "description": "Tesla is currently under fire by the Federal Motor Transport Authority (KBA) in Germany after finding some 'irregularities' in its Autopilot features.",
+    "url": "https://www.techtimes.com/articles/280333/20220909/german-transport-authority-orders-tesla-modify-autopilot-features-pointing-out.htm",
+    "urlToImage": "https://1734811051.rsc.cdn77.org/data/images/full/411240/german-transport-authority-orders-tesla-to-modify-autopilot-features-after-pointing-out-irregularities.jpg",
+    "publishedAt": "2022-09-09T21:20:00Z",
+    "content": "It is not a secret that Tesla's Autopilot system has seen its ups and downs for some time now. There are many people and institutions who, time and time again, put the system to numerous tests regard… [+3286 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ZDNet"
+    },
+    "author": "Matthew Miller",
+    "title": "Apple Watch Ultra vs. Garmin Enduro 2: Exploring the key differences",
+    "description": "The Watch Ultra is Apple's latest smartwatch for athletes, explorers, and even divers. So, how does it stack up against Garmin's tried-and-true Enduro 2? Here are the key reasons to buy one or the other for your outdoor adventures.",
+    "url": "https://www.zdnet.com/article/apple-watch-ultra-vs-garmin-enduro-2/",
+    "urlToImage": "https://www.zdnet.com/a/img/resize/38c1b79e7829018376e3ff6292ec592325bf325a/2022/09/09/c6503549-0268-464f-85cc-49945b64b614/apple-watch-ultra-vs-garmin-enduro-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2022-09-09T21:14:30Z",
+    "content": "\" image-credit=\"Image: Apple, Jason Hiner/ZDNET\" image-alt-text=\"apple-watch-ultra-vs-garmin-enduro-2\" image-filename=\"apple-watch-ultra-vs-garmin-enduro-2.jpg\" image-date-created=\"2022/09/09\" image-… [+98204 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CarScoops"
+    },
+    "author": "Michael Gauthier",
+    "title": "Ford Wants Dealers To Help Slash Costs To Become More Competitive With Tesla",
+    "description": "Ford is looking for a cost savings of $2,000 per vehicle.",
+    "url": "https://www.carscoops.com/2022/09/ford-wants-dealers-to-help-slash-costs-to-become-more-competitive-with-tesla/",
+    "urlToImage": "https://www.carscoops.com/wp-content/uploads/2022/09/2022-Ford-F-150-Lightning.jpg",
+    "publishedAt": "2022-09-09T21:03:25Z",
+    "content": "Were living in the era of the stealership, but that wont stop Ford CEO Jim Farley from asking dealers to help cut costs.\r\nWhile this could prove to be an uphill battle, Reuters is reporting that Ford… [+1349 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MarketWatch"
+    },
+    "author": null,
+    "title": "Tech Up as Dollar Slides -- Tech Roundup - MarketWatch",
+    "description": "Shares of technology companies rallied, lifted by a slide in the dollar. Currency conversion threatened to become a significant weight on multinationals'...",
+    "url": "https://www.marketwatch.com/story/tech-up-as-dollar-slides-tech-roundup-271662757327",
+    "urlToImage": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+    "publishedAt": "2022-09-09T21:01:00Z",
+    "content": "Shares of technology companies rallied, lifted by a slide in the dollar.\r\nCurrency conversion threatened to become a significant weight on multinationals' earnings as the dollar hit multiyear highs i… [+1080 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "elvis",
+    "title": "Dow Jones Jumps As Losing Streak Ends; Tesla Surges As Elon Musk Eyes This Move; Warren Buffett Stock Pops",
+    "description": "The Dow Jones Industrial Average charged higher as the stock market ended a three-week losing streak. Volume was mixed, running higher on the Nasdaq but slipping on the New York Stock Exchange... #westtexasintermediate #tesla #gulfcoast #salesforce #oanda #ed…",
+    "url": "https://biztoc.com/p/irtkfiw7?ref=rss",
+    "urlToImage": "https://cdn.biztoc.com/og/irtkfiw7.jpg",
+    "publishedAt": "2022-09-09T21:00:06Z",
+    "content": "The Dow Jones Industrial Average charged higher as the stock market ended a three-week losing streak. Volume was mixed, running higher on the Nasdaq but slipping on the New York Stock Exchange accord… [+1240 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CleanTechnica"
+    },
+    "author": "Carolyn Fortuna",
+    "title": "Will The 2024 Chevrolet Equinox EV Be A Viable Competitor?",
+    "description": "This article describes the features of the upcoming 2024 Chevrolet Equinox EV, which was unveiled this week.",
+    "url": "https://cleantechnica.com/2022/09/09/will-the-2024-chevrolet-equinox-ev-be-a-viable-competitor/",
+    "urlToImage": "https://cleantechnica.com/files/2022/09/2024-Chevrolet-Equinox-EV-3RS-131.jpg",
+    "publishedAt": "2022-09-09T20:46:48Z",
+    "content": "The first of the company’s electric vehicles to be announced this year was the full size truck, the Silverado EV. Later, it was the midsize SUV, the Blazer EV. Now a third model has been introduced t… [+7311 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Ashley Capoot",
+    "title": "Former Tesla CFO joins drone delivery startup Zipline",
+    "description": "Former Tesla CFO Deepak Ahuja will join Zipline's leadership team and act as the company's CBO and CFO.",
+    "url": "https://www.cnbc.com/2022/09/09/former-tesla-cfo-joins-drone-delivery-startup-zipline.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/105174943-1662753477576-deep.jpg?v=1662753501&w=1920&h=1080",
+    "publishedAt": "2022-09-09T20:41:04Z",
+    "content": "Former Tesla CFO Deepak Ahuja will join Zipline's leadership team as the company's chief business officer and CFO, Zipline announced Friday.\r\nZipline is a Silicon Valley-based robotics company that d… [+915 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "GlobeNewswire"
+    },
+    "author": "Zipline",
+    "title": "Deepak Ahuja will Join Zipline as its Chief Business and Financial Officer",
+    "description": "Former CFO of Tesla and Verily will be part of Zipline’s Leadership Team as the Company Continues Global Expansion of Instant Delivery and Logistics Service Former CFO of Tesla and Verily will be part of Zipline’s Leadership Team as the Company Continues Glob…",
+    "url": "https://www.globenewswire.com/news-release/2022/09/09/2513504/0/en/Deepak-Ahuja-will-Join-Zipline-as-its-Chief-Business-and-Financial-Officer.html",
+    "urlToImage": "https://ml.globenewswire.com/Resource/Download/e68e70fe-d791-42c3-90b0-ecaddbe4e705?size=1",
+    "publishedAt": "2022-09-09T20:39:00Z",
+    "content": "SAN FRANCISCO, Sept. 09, 2022 (GLOBE NEWSWIRE) -- Zipline, the global leader in instant delivery, today announced that a world-class leader will join the companys leadership team to usher in its next… [+4987 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Zipline",
+    "title": "Deepak Ahuja will Join Zipline as its Chief Business and Financial Officer",
+    "description": "Former CFO of Tesla and Verily will be part of Zipline’s Leadership Team as the Company Continues Global Expansion of Instant Delivery and Logistics Service ...",
+    "url": "https://finance.yahoo.com/news/deepak-ahuja-join-zipline-chief-203900963.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZFugDNUQe9TNjYGBC11KSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMTQ2/https://media.zenfs.com/en/globenewswire.com/8e94fe4db49b60bfbe3ce8b4ae7f2f6f",
+    "publishedAt": "2022-09-09T20:39:00Z",
+    "content": "Former CFO of Tesla and Verily will be part of Ziplines Leadership Team as the Company Continues Global Expansion of Instant Delivery and Logistics Service\r\nDeepak Ahuja\r\nSAN FRANCISCO, Sept. 09, 202… [+5158 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Motley Fool"
+    },
+    "author": "newsfeedback@fool.com (Joe Tenebruso)",
+    "title": "Why Tesla Stock Climbed Today",
+    "description": "The EV leader may build a lithium refinery.",
+    "url": "https://www.fool.com/investing/2022/09/09/why-tesla-stock-climbed-today/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/700258/electric-vehicles-gettyimages-1010794026.jpg",
+    "publishedAt": "2022-09-09T20:15:02Z",
+    "content": "What happened\r\nShares of Tesla(TSLA 3.60%) rose 3.6% on Friday following reports that the electric vehicle (EV) maker is considering making a big move into the lithium industry. \r\nThe tech-heavy NASD… [+1651 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "PR Newswire",
+    "title": "Insights on the Ultracapacitors Global Market to 2027 - Increasing Applications of Supercapacitors in the Aviation Sector Presents Opportunities",
+    "description": "The 'Global Ultracapacitors Market (2022-2027) by Type, Electrode Material, Application, Geography, Competitive Analysis and the Impact of Covid-19 with...",
+    "url": "https://finance.yahoo.com/news/insights-ultracapacitors-global-market-2027-201500396.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/wDGPSO44TROYKbQSONxNmQ--~B/aD00Mjt3PTQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/prnewswire.com/e75ef6f3096d7cb6f5dd43ba82eca2fe",
+    "publishedAt": "2022-09-09T20:15:00Z",
+    "content": "DUBLIN, Sept. 9, 2022 /PRNewswire/ -- The 'Global Ultracapacitors Market (2022-2027) by Type, Electrode Material, Application, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff A… [+7945 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PRNewswire"
+    },
+    "author": null,
+    "title": "Insights on the Ultracapacitors Global Market to 2027 - Increasing Applications of Supercapacitors in the Aviation Sector Presents Opportunities",
+    "description": "DUBLIN, Sept. 9, 2022 /PRNewswire/ -- The 'Global Ultracapacitors Market (2022-2027) by Type, Electrode Material, Application, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff Analysis' report has been added to ResearchAndMarkets.com's o…",
+    "url": "https://www.prnewswire.com/news-releases/insights-on-the-ultracapacitors-global-market-to-2027---increasing-applications-of-supercapacitors-in-the-aviation-sector-presents-opportunities-301621164.html",
+    "urlToImage": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+    "publishedAt": "2022-09-09T20:15:00Z",
+    "content": "DUBLIN, Sept. 9, 2022 /PRNewswire/ -- The 'Global Ultracapacitors Market (2022-2027) by Type, Electrode Material, Application, Geography, Competitive Analysis and the Impact of Covid-19 with Ansoff A… [+7665 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Daily Caller"
+    },
+    "author": "Jack McEvoy",
+    "title": "Tesla Seeks Texas Tax Break For New Battery Factory",
+    "description": "'Evaluating the feasibility of this project'",
+    "url": "https://dailycaller.com/2022/09/09/tesla-texas-tax-break-new-battery-factory/",
+    "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2022/09/GettyImages-1392610598-scaled-e1662745494283.jpg",
+    "publishedAt": "2022-09-09T19:59:01Z",
+    "content": "Tesla is considering building its new lithium refinery on the Texas Gulf Coast and is looking to avoid paying property taxes in exchange for investing in the Republican-run state, according to docume… [+2465 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ZDNet"
+    },
+    "author": "Jason Cipriani",
+    "title": "Apple Watch Ultra vs. Apple Watch Series 8: Which one is right for you?",
+    "description": "Trying to decide if you should go all-out with the Apple Watch Ultra or if the Apple Watch Series 8 is more than enough for you? Let me help.",
+    "url": "https://www.zdnet.com/article/apple-watch-ultra-vs-apple-watch-series-8/",
+    "urlToImage": "https://www.zdnet.com/a/img/resize/aafc79d1ed5b4855d68660b317f0131688ea004f/2022/09/08/675c038f-0a14-43e6-ab88-3cc88698813c/apple-watch-series-8.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2022-09-09T19:44:00Z",
+    "content": "\" image-credit=\"Jason Hiner/ZDNET\" image-alt-text=\"Apple Watch Series 8\" image-filename=\"apple-watch-series-8.jpg\" image-date-created=\"2022/09/08\" image-width=\"2048\" image-height=\"1366\" image-do-not-… [+87120 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Electrek"
+    },
+    "author": "Fred Lambert",
+    "title": "Podcast: VW ID.Buzz test drive, $30k Chevy Equinox EV, Tesla lithium refinery, and more",
+    "description": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our VW ID Buzz test drive, the launch of the $30k Chevy Equinox EV, Tesla’s potential lithium refinery, and more.\n mo…",
+    "url": "https://electrek.co/2022/09/09/podcast-vw-id-buzz-tesla-equinox/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-09-09T19:36:13Z",
+    "content": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our VW ID Buzz test drive, the launch of the $30k Chevy E… [+975 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Electrek"
+    },
+    "author": "Peter Johnson",
+    "title": "Ford CEO wants to compete with Tesla, will meet with dealers to lower EV prices",
+    "description": "Ford is not backing down from a showdown with Tesla as the EV race heats up. According to a new report, Ford’s CEO Jim Farley will meet with dealers next week in a bid to lower the price of its electric vehicles to compete with Tesla.\n more…\nThe post Ford CEO…",
+    "url": "https://electrek.co/2022/09/09/ford-competiting-with-tesla-meeting-with-dealer-lower-ev-prices/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Ford-Tesla-EV.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-09-09T19:33:49Z",
+    "content": "Ford is not backing down from a showdown with Tesla as the EV race heats up. According to a new report, Ford’s CEO Jim Farley will meet with dealers next week in a bid to lower the price of its elect… [+3784 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Biztoc.com"
+    },
+    "author": "steeltown",
+    "title": "Stocks making the biggest moves midday: Zscaler, DocuSign, Virgin Galactic, Kroger and more",
+    "description": "Zscaler surged 20% after reporting strong earnings in its most recent quarter. Shares of DocuSign jumped 9.9% after the electronic agreement company's quarterly numbers topped analyst... #earningsreport #nationalbeverage #caterpillar #zscaler #lyft #cargiant …",
+    "url": "https://biztoc.com/p/xn62ik2f?ref=rss",
+    "urlToImage": "https://cdn.biztoc.com/og/xn62ik2f.jpg",
+    "publishedAt": "2022-09-09T19:30:29Z",
+    "content": "Zscaler surged 20% after reporting strong earnings in its most recent quarter. Shares of DocuSign jumped 9.9% after the electronic agreement company's quarterly numbers topped analyst expectations. T… [+1305 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CarScoops"
+    },
+    "author": "Brad Anderson",
+    "title": "Tesla’s Deliveries Of Chinese-Made Vehicles Almost Tripled Last Month",
+    "description": "Tesla exported 42,463 of its Chinese-made vehicles in August.",
+    "url": "https://www.carscoops.com/2022/09/teslas-deliveries-of-chinese-made-vehicles-almost-tripled-last-month/",
+    "urlToImage": "https://www.carscoops.com/wp-content/uploads/2022/06/2022-Tesla-Model-Y.jpg",
+    "publishedAt": "2022-09-09T19:29:08Z",
+    "content": "Tesla almost tripled the sales of its Chinese-made vehicles in August following an increase in production at its plant in Shanghai.\r\nThe China Passenger Car Association has revealed that Tesla sold 7… [+1246 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": null,
+    "title": "Elon Musk Files Amended Counterclaims In Legal Battle Against Twitter",
+    "description": "Elon Musk filed under seal an amended countersuit against Twitter Inc on Friday to incorporate recent whistleblower claims of security lapses at the social media platform, according to court records.",
+    "url": "https://www.ndtv.com/world-news/elon-musk-files-amended-counterclaims-in-legal-battle-against-twitter-3332082",
+    "urlToImage": "https://c.ndtvimg.com/2022-06/i2dfddv_elon-musk-reuters_625x300_03_June_22.jpg",
+    "publishedAt": "2022-09-09T19:26:27Z",
+    "content": "Elon Musk announced the termination of the Twitter deal alleging multiple breaches of the agreement.\r\nWilmington: Elon Musk filed under seal an amended countersuit against Twitter Inc on Friday to in… [+365 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Reviewgeek.com"
+    },
+    "author": "Cory Gunther",
+    "title": "Does Mileage Matter on a Used EV?",
+    "description": "As electric vehicles continue to rise in popularity, we’ll start seeing more used EVs available for sale. If you’re in the market for an electric car, you’re likely wondering how much mileage matters on a used EV.",
+    "url": "https://www.reviewgeek.com/129033/does-mileage-matter-on-a-used-ev/",
+    "urlToImage": "https://www.reviewgeek.com/p/uploads/2022/09/7f35703c.jpg",
+    "publishedAt": "2022-09-09T19:25:15Z",
+    "content": "Ensuper/Shutterstock.com\r\nAs electric vehicles continue to rise in popularity, we’ll start seeing more used EVs available for sale. If you’re in the market for an electric car, you’re likely wonderin… [+6731 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Streetsblog.org"
+    },
+    "author": "Gersh Kuntzman",
+    "title": "CRASH TEST: Electric Cars are More Dangerous than Conventional Cars, Says Global Insurance Company",
+    "description": "<!-- FeaturedImageEnd -->\"A look at the accident statistics shows that drivers of electric cars cause 50 percent more collisions with damage to their own vehicles than those of conventional combustion engines,\" the insurance giant AXA said.",
+    "url": "https://nyc.streetsblog.org/2022/09/09/crash-test-electric-cars-are-more-dangerous-than-conventional-cars-says-global-insurance-company/",
+    "urlToImage": "https://nyc.streetsblog.org/wp-content/uploads/2022/09/impact-best.jpg",
+    "publishedAt": "2022-09-09T19:21:08Z",
+    "content": "Electric cars cause more damage-causing collisions than conventional cars partly due to their incredible acceleration and the increased weight of e-cars and trucks is a huge concern for occupants of … [+6122 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Gadgets360.com"
+    },
+    "author": null,
+    "title": "Tesla Asks Twitter Users to Pick Next Supercharger Location via a Poll",
+    "description": "Tesla has announced it will let users pick the next location of its Supercharger via a poll. The electric vehicle manufacturer has asked users to provide suggestions of the next Supercharger location, and the responses with the most likes will be part of the …",
+    "url": "https://gadgets360.com/transportation/news/tesla-supercharger-location-twitter-poll-select-locations-globally-3332076",
+    "urlToImage": "https://i.gadgets360cdn.com/large/tesla_charger_reuters_1626847834750.jpg",
+    "publishedAt": "2022-09-09T19:15:34Z",
+    "content": "Tesla will allow users to select the next location of its Supercharger for fast charging the company's electric vehicles (EVs) on Twitter. The firm revealed on Thursday that it would allow users to v… [+1668 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "IPWatchdog.com"
+    },
+    "author": "Steve Brachmann",
+    "title": "Other Barks & Bites for Friday, August 9: Rader Calls Out CAFC, JCPA Fails to Move Out of Committee, and Teva SCOTUS Reply Urges Review of ‘Skinny Label’ Inducement Case",
+    "description": "This week in Other Barks & Bites: former Federal Circuit Chief Judge Randall Rader urges inventors to pursue changes to flawed Federal Circuit case law; Federal Circuit Chief Judge Kimberly Moore opines that the patent dispute between Apple and VirnetX may ne…",
+    "url": "https://www.ipwatchdog.com/2022/09/09/barks-bites-friday-august-9-rader-calls-cafc-jcpa-fails-move-committee-teva-scotus-reply-urges-review-skinny-label-inducement-case/id=151312/",
+    "urlToImage": "https://www.ipwatchdog.com/wp-content/uploads/2022/09/Depositphotos_364067980_XL-scaled-e1662744618293.jpg",
+    "publishedAt": "2022-09-09T19:15:23Z",
+    "content": "Bite (noun): more meaty news to sink your teeth into.\r\nBark (noun): peripheral noise worth your attention.\r\nThis week in Other Barks &amp; Bites: former Federal Circuit Chief Judge Randall Rader urge… [+12234 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Dow Jones Jumps As Rally Strengthens; Tesla Surges As Elon Musk Eyes This Move; Warren Buffett Stock Pops",
+    "description": "The Dow Jones jumped as the rally gained strength. Tesla stock surged as Elon Musk eyed a new move. A Warren Buffett stock impressed.",
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-jumps-tesla-stock-surges-as-elon-musk-eyes-this-move-warren-buffett-stock-pops-rh-stock/",
+    "urlToImage": "https://www.investors.com/wp-content/uploads/2020/07/Stock-elonmusk-03-shutt.jpg",
+    "publishedAt": "2022-09-09T19:11:06Z",
+    "content": "The Dow Jones Industrial Average charged higher as the stock market held near session highs. Tesla (TSLA) jumped as Elon Musk eyes a new facility. Warren Buffett stock RH (RH) surged on results. Appl… [+5302 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Sydney Morning Herald"
+    },
+    "author": "Clancy Yeates",
+    "title": "Electric cars: How investors are trying to ride the wave",
+    "description": "The rise of electric vehicles is being touted as  “what Apple did with the iPhone on steroids”. Investors are trying to get their piece of the action.",
+    "url": "https://www.smh.com.au/business/companies/how-investors-are-trying-to-ride-the-electric-car-wave-20220901-p5behh.html",
+    "urlToImage": "https://static.ffx.io/images/$zoom_0.26475%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/78e954aa5c08325da5b05f15ed70aadbdbc1889e",
+    "publishedAt": "2022-09-09T19:08:30Z",
+    "content": "Its the buy now, pay later of 2022 - the one that everyone wants a piece of when the market is not that exciting, Dale says.\r\nThe sluggish uptake of EVs in Australia is irrelevant for these investors… [+7707 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "FX Empire"
+    },
+    "author": "Reuters",
+    "title": "Elon Musk files amended counterclaims vs Twitter under seal",
+    "description": "WILMINGTON, Del (Reuters) -   Elon Musk filed under seal an amended countersuit against Twitter Inc on Friday to incorporate recent whistleblower claims of security lapses at the social media platform, according to court records.",
+    "url": "https://www.fxempire.com/news/article/elon-musk-files-amended-counterclaims-vs-twitter-under-seal-1122745",
+    "urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2022/09/tagreuters.com2022newsml_LYNXMPEI880WI2.jpg",
+    "publishedAt": "2022-09-09T19:08:19Z",
+    "content": "WILMINGTON, Del (Reuters) Elon Musk filed under seal an amended countersuit against Twitter Inc on Friday to incorporate recent whistleblower claims of security lapses at the social media platform, a… [+163 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": null,
+    "title": "Elon Musk files amended counterclaims vs Twitter under seal",
+    "description": "Elon Musk filed under seal an amended countersuit against Twitter Inc<a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> on Friday to incorporate recent whistleblower claims of security lapses at the social media platform, accordin…",
+    "url": "https://www.reuters.com/markets/deals/elon-musk-files-amended-counterclaims-vs-twitter-under-seal-2022-09-09/",
+    "urlToImage": "https://www.reuters.com/resizer/KDcmQFirIoJrxVdBMhQ9d-lnBkQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ECPZQIMQBNPDLP2WO4SHW2LWHE.jpg",
+    "publishedAt": "2022-09-09T19:03:09Z",
+    "content": "WILMINGTON, Del, Sept 9 (Reuters) - Elon Musk filed under seal an amended countersuit against Twitter Inc(TWTR.N) on Friday to incorporate recent whistleblower claims of security lapses at the social… [+356 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Julian Barraza",
+    "title": "How Much Does It Cost To Maintain a Luxury Car",
+    "description": "Buying a luxury car is only the first expense associated with riding in style. The cost of owning and maintaining a high-end vehicle can easily tack on five ...",
+    "url": "https://finance.yahoo.com/news/much-does-cost-maintain-luxury-190155721.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mh_p2Pr3ZCISSTsgv.QQ2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/gobankingrates_644/df24b3c8883883920170ad3476ffa94e",
+    "publishedAt": "2022-09-09T19:01:55Z",
+    "content": "Buying a luxury car is only the first expense associated with riding in style. The cost of owning and maintaining a high-end vehicle can easily tack on five figures more over the course of a decade.\r… [+4336 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNA"
+    },
+    "author": null,
+    "title": "Elon Musk files amended counterclaims vs Twitter under seal",
+    "description": "WILMINGTON, Del : Elon Musk filed under seal an amended countersuit against Twitter Inc on Friday to incorporate recent whistleblower claims of security lapses at the social media platform, according to court records. Musk, the world's richest person and chie…",
+    "url": "https://www.channelnewsasia.com/business/elon-musk-files-amended-counterclaims-vs-twitter-under-seal-2930356",
+    "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--CFyiJ1DC--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-09-09t190230z_2_lynxmpei880wi_rtroptp_3_twitter-m-a-musk.jpg?itok=BuI5JNAJ",
+    "publishedAt": "2022-09-09T18:58:27Z",
+    "content": "WILMINGTON, Del : Elon Musk filed under seal an amended countersuit against Twitter Inc on Friday to incorporate recent whistleblower claims of security lapses at the social media platform, according… [+156 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Kiplinger's Personal Finance"
+    },
+    "author": "Anne Kates Smith",
+    "title": "How to Invest $1,000: Buy Small Cap Stocks",
+    "description": "Among the lowest-priced investing options this fall are small cap stocks – often defined as companies whose total market capitalization (stock price times number of shares) runs from $300 million to $2 billion.\nThe Russell 2000, an index that tracks the 2,000…",
+    "url": "https://www.kiplinger.com/investing/605204/how-to-invest-1000-buy-small-cap-stocks",
+    "urlToImage": "https://mediacloud.kiplinger.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1580336090/slideshow/investing/T023-S002-time-tested-tactics-to-build-your-wealth/images/take-a-flier-on-small-stocks.jpg",
+    "publishedAt": "2022-09-09T18:49:51Z",
+    "content": "Among the lowest-priced investing options this fall are small cap stocks often defined as companies whose total market capitalization (stock price times number of shares) runs from $300 million to $2… [+3592 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Jim Gorzelany, Senior Contributor, \n Jim Gorzelany, Senior Contributor\n https://www.forbes.com/sites/jimgorzelany/",
+    "title": "Buying An Electric Car By The Numbers",
+    "description": "If you’re considering the switch to an electric car, truck, or SUV you’ll want to check these eye-opening cost charts.",
+    "url": "https://www.forbes.com/sites/jimgorzelany/2022/09/09/buying-an-electric-car-by-the-numbers/",
+    "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/631b82ddfd783b0a0e3d1994/0x0.jpg?format=jpg&crop=2268,1275,x0,y83,safe&width=1200",
+    "publishedAt": "2022-09-09T18:47:13Z",
+    "content": "Electric cars are in short supply and greater demand, spurring record-high transaction prices. \r\ngetty\r\nThough gas prices have eased up in recent weeks, fueling the family car is still taking a finan… [+6761 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Autoblog"
+    },
+    "author": "Autoblog Staff, Autoblog",
+    "title": "New Ford Mustang incoming; driving the Tesla Model S Plaid | Autoblog Podcast #746",
+    "description": "Filed under:\nGreen,Podcasts,Chrysler,Ford,Hyundai,Kia,McLaren,Mitsubishi,Tesla,Coupe,Crossover,SUV,Electric,Future Vehicles,Luxury,Performance,Sedan\n\nAlso, what's next for Chrysler 300, Honda Civic Type R, McLaren and Ralliart?Continue reading New Ford Mustan…",
+    "url": "https://www.autoblog.com/2022/09/09/podcast-2024-ford-mustand-tesla-model-s-plaid-chrysler-mclaren-mitsubishi-ralliart-civic-type-r/",
+    "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/09/09142927/p746.jpg",
+    "publishedAt": "2022-09-09T18:37:00Z",
+    "content": "In this episode of the Autoblog Podcast, Editor-in-Chief Greg Migliore is joined by Road Test Editor Zac Palmer. We're fast approaching the reveal of the 2024 Ford Mustang, and we talk about what we … [+1182 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Electrek"
+    },
+    "author": "Patrick Campanale",
+    "title": "Greenworks 40V 21-inch brushless electric mower falls to $410 in New Green Deals",
+    "description": "While lawn cutting season might be coming to a close, it’s never a bad time to ditch your gas-powered mower for an all-electric one. That’s where today’s New Green Deal comes in, as it delivers the Greenworks 21-inch 40V electric mower with two batteries to y…",
+    "url": "https://electrek.co/2022/09/09/greenworks-mower-40v-more-new-green-deals/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/greenworks-40v-21-inch-cordless-brushless-electric-mower.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-09-09T18:36:27Z",
+    "content": "While lawn cutting season might be coming to a close, it’s never a bad time to ditch your gas-powered mower for an all-electric one. That’s where today’s New Green Deal comes in, as it delivers the G… [+6304 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ZDNet"
+    },
+    "author": "Maria Diaz",
+    "title": "iPhone 14 Pro makes the notch come alive, finally",
+    "description": "What is a Dynamic Island? It's Apple's attempt to turn an eyesore into a selling point.",
+    "url": "https://www.zdnet.com/article/iphone-14-pro-makes-the-notch-come-alive-finally/",
+    "urlToImage": "https://www.zdnet.com/a/img/resize/3c9aedc406df0dcb9b57889243e45a21c497c580/2022/09/07/751d47a0-4cc5-49c5-a77b-e661dd19e8e3/iphone-14-pro-dynamic-island.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2022-09-09T18:29:00Z",
+    "content": "\" image-credit=\"Image: Apple\" image-alt-text=\"iPhone 14 Pro Dynamic Island\" image-filename=\"iphone-14-pro-dynamic-island.jpg\" image-date-created=\"2022/09/07\" image-width=\"3840\" image-height=\"2160\" im… [+160717 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Futurism"
+    },
+    "author": "Victor Tangermann",
+    "title": "Elon Musk Slams Fusion, Says Future of Energy Is Wind and Solar",
+    "description": "Tesla CEO Elon Musk has always been an outspoken critic of fusion energy, the concept of fusing atoms together under extreme conditions as a way to generate green electricity.",
+    "url": "https://futurism.com/elon-musk-slams-fusion",
+    "urlToImage": "https://wp-assets.futurism.com/2022/09/elon-musk-slams-fusion.jpg",
+    "publishedAt": "2022-09-09T18:18:39Z",
+    "content": "Tesla and SpaceX CEO Elon Musk isn't convinced of the long-term prospects of fusion energy, the long-deferred dream of fusing atoms together under extreme conditions as a way to generate green electr… [+2375 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "ZDNet"
+    },
+    "author": "Chris Matyszczyk",
+    "title": "Samsung says iPhone users are painfully myopic and unimaginative",
+    "description": "This is the closest Samsung has come to calling iPhone users deluded cult members for some time. You might like it.",
+    "url": "https://www.zdnet.com/article/samsung-samsung-says-iphone-users-are-painfully-myopic-and-unimaginative/",
+    "urlToImage": "https://www.zdnet.com/a/img/resize/0488d6014a6186892a956930fd9e2e549c6b8b3d/2022/09/08/d34b4c8c-0344-4347-a9ba-7cf512855ffa/screen-shot-2022-09-08-at-3-53-05-pm.png?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2022-09-09T18:18:35Z",
+    "content": "What?(A screenshot from the Samsung ad)\r\n\" image-credit=\"Chris Matyszczyk/screenshot\" image-alt-text=\"screen-shot-2022-09-08-at-3-53-05-pm.png\" image-filename=\"screen-shot-2022-09-08-at-3-53-05-pm.pn… [+116333 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Renewableenergyworld.com"
+    },
+    "author": "Renewable Energy World",
+    "title": "Batteries helped (mostly) as California’s grid endured record demand",
+    "description": "Price signals triggered batteries to begin discharging even though other resources, such as solar, were in adequate supply.",
+    "url": "https://www.renewableenergyworld.com/storage/batteries-helped-mostly-as-californias-grid-endured-record-demand/",
+    "urlToImage": "https://images.renewableenergyworld.com/wp-content/uploads/2022/09/Fluence_Gridstack_Core_XL_721_420_80_s_c1-edited.jpg",
+    "publishedAt": "2022-09-09T18:13:54Z",
+    "content": "As a power crunch precipitated by an extended heat wave eased, the California Solar and Storage Association (CALSSA) said that the state had more than 80,000 customer-sited batteries connected to the… [+2276 chars]"
+  }
+]
 }

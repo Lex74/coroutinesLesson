@@ -10,7 +10,7 @@ import ru.mts.data.news.repository.NewsRepository
 import ru.mts.data.utils.doOnError
 import ru.mts.data.utils.doOnSuccess
 
-class NewsViewModel(repository: NewsRepository) : ViewModel() {
+class NewsViewModel(private val repository: NewsRepository) : ViewModel() {
     private val _state: MutableStateFlow<NewsState> = MutableStateFlow(NewsState.Loading)
     val state = _state.asStateFlow()
 
@@ -20,9 +20,24 @@ class NewsViewModel(repository: NewsRepository) : ViewModel() {
                 it.doOnError { error ->
                     _state.emit(NewsState.Error(error))
                 }.doOnSuccess { news ->
-                    _state.emit(NewsState.Content(news.id))
+                    _state.emit(NewsState.Content(news))
                 }
             }
         }
+    }
+    fun onRefresh() {
+        viewModelScope.launch {
+            repository.getRemoteNews().collect {
+                it.doOnError { error ->
+                    _state.emit(NewsState.Error(error))
+                }.doOnSuccess { news ->
+                    _state.emit(NewsState.Content(news))
+                }
+            }
+        }
+    }
+
+    fun loadData() {
+
     }
 }

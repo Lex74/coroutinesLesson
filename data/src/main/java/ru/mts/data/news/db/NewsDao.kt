@@ -6,12 +6,12 @@ import androidx.room.*
 @Dao
 interface NewsDao {
     @Query("SELECT * FROM news")
-    fun getAll(): List<NewsEntity?>?
+    fun getAll(): List<NewsEntity>?
 
-    @Query("SELECT * FROM news WHERE id = :id")
-    fun getById(id: Long): NewsEntity?
+    @Query("SELECT * FROM news WHERE title = :title")
+    fun getByTitle(title: String): NewsEntity?
 
-    @Insert
+    @Insert(onConflict = OnConflictStrategy.IGNORE)
     fun insert(news: NewsEntity?)
 
     @Update
